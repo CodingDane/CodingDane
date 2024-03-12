@@ -1,4 +1,6 @@
-## About me
+## Hey there!
 
-Hi, I'm Alex!
-My passions are Web Dev and language learning.
+I'm Alex!
+My passions are web development 💻 and language learning 💬.
+Interested in working on Rails app projects 🚝
+
