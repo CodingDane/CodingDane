@@ -1,5 +1,5 @@
 ## 👋 About Me
-Hi there! I'm **Alex**, a software developer based in Tokyo, working in an AI-driven environment.
+Hi there! I'm **Alex**, a software developer based in Yokohama, Japan.
 
 - 🌱 Currently learning about **OpenAI Agents SDK**, AI APIs, and integrating agentic workflows.
 - 💡 Passionate about **AI, automation, and data-driven applications**, especially chatbot development and text based AI services.
