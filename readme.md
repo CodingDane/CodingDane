@@ -1,20 +1,20 @@
-# 🌟 Welcome to My GitHub Profile!
-
 ## 👋 About Me
-Hi there! I'm **[Alex]**, a software developer .
+Hi there! I'm **Alex**, a software developer based in Tokyo, working in an AI-driven environment.
 
-- 🔭 Currently working on **[your current project]**
-- 🌱 Learning about **[OpenAI Agents SDK, Python, ]**
-- ♦️ Experience with **[Ruby]** and **[Ruby on Rails]**, **[Python]** and **[Django]**, as well as backend API and databases (mostly postgresql).
+- 🌱 Currently learning about **OpenAI Agents SDK**, AI APIs, and integrating agentic workflows.
+- 💡 Passionate about **AI, automation, and data-driven applications**, especially chatbot development and text based AI services.
+- ♦️ Experience with **Python** (Django, FastAPI), **Ruby** (Ruby on Rails), and **backend API development** with PostgreSQL.
+- 📝 Writing about **AI and app development** on Qiita.
 
 ---
 
 ## 🚀 Projects (More to come)
 
-### 🎯 [Story Time]
-- 🔹 **Description:** [English learning tool, utilizing AI generated stories and pictures from the user's input.]
-- 🔹 **Tech Stack:** [Ruby on Rails, JavaScript, PostgreSQL, Heroku, OpenAI API]
-- 🔹 **Repo:** [https://github.com/Akakemushi/story-time]
+### 🎯 Story Time
+- 🔹 **Description:** An English learning tool that utilizes AI-generated stories and pictures based on user input.
+- 🔹 **Tech Stack:** Ruby on Rails, JavaScript, PostgreSQL, Heroku, OpenAI API
+- 🔹 **Repo:** [GitHub Link](https://github.com/Akakemushi/story-time)
+
 
 ---
 
@@ -24,6 +24,7 @@ Hi there! I'm **[Alex]**, a software developer .
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alexandervoeler/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alexandervoeler/)
+[![Qiita](https://img.shields.io/badge/-Qiita-green?style=flat-square&logo=qiita)](https://qiita.com/CodingDane)
 
 Thanks for stopping by! 😊
